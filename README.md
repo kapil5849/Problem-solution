@@ -19,5 +19,5 @@ Solutions of assignments, problems of DSA bootcamp in C++ by Kunal kushwaha  OR 
 
 
 ## C++ Basic
-If you are new to C++ this will help you little
-#[C++](https://github.com/kapil5849/DSA-IN-C)
+- If you are new to C++ this will help you little
+##[C++](https://github.com/kapil5849/DSA-IN-C)
