@@ -16,3 +16,8 @@ Solutions of assignments, problems of DSA bootcamp in C++ by Kunal kushwaha  OR 
 ## Disclaimer
 - Please do not submit the code by copying it to leetcode or anywhere else. When you stuck to find a solution you can look and understand the code. And finally as you wish.
 - Now you are all grown up, what shall I tell you? 😉 
+
+
+## C++ Basic
+If you are new to C++ this will help you little
+#[C++](https://github.com/kapil5849/DSA-IN-C)
